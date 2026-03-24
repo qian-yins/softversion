@@ -1,1 +1,7 @@
-test
+{
+  "EncryptedData": "PubF2hdc8kSJ1lCYXep8VuNCPmrQwhZaqph4UPjQUeD2Dar3RrfBjLbVJH6A+u5pj1B8O2FpjmBYFY0on4DXvGvu3o46/YPZCqkWzX6iW0VZXCZc5aKyI+k2iLa2RKlABTu/kKSk1ojTUiJ90jF9TIc74BApibsfG+ZhdxKUW83oOQYdhuAhKjbKHsWx5Hzr5aGxG3KGnoktC114CUerkj6chfOtR7LRqVKTMX6RmAk0Vjp253KODvpZ+66SUci9znPOD39AFjV/hCmOvjl3iw==",
+  "Signature": "eohEyLNZlYTscBr8JbEMlTfqCWVZGChUy8kc1QL4rdPhV5zAKegooZORoub/6PYRgH+UawZjoC2o9Ib3RyDO8yK/9txA3MEc9/ziqu1Y5eJPemgniiqkQZKxMx7ityZl00/z6YlDYVNMdUa7QsFlwdqPd4qSX3oyHITt15w9+uWIiid7/cyVTH4Rg0ViUwhSOjn3FRfxa4IeiOoyWzri50E+9A1kTIIiI1+ds8yK+0DRtitFBeeWuYtzlgnukRgRN2dZd3KQUHtfVtZmm8SxMpa4mDNXhCZCY3qwfpPYTZNXwhxY3Fwc9ZC16qQCMZTs2yGZRfp8D/RpbkQwEovK7w==",
+  "DownloadUrls": [
+    "https://gitee.com/freeki/softversion/raw/master/AutoWWidget/WebPlex.zip"
+  ]
+}
