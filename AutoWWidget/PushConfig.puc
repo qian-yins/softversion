@@ -1,0 +1,17 @@
+{
+  "PushUrls": [
+    {
+      "Id": "push001",
+      "Url": "https://www.bing.com",
+      "Name": "必应搜索",
+      "Sizes": [800, 600],
+      "Position": [-1, -1],
+      "Opacity": 0.95,
+      "BarColor": [0, 120, 212],
+      "TopMost": true,
+      "Enabled": true,
+      "CreatedAt": "2024-01-01T00:00:00",
+      "UpdatedAt": "2024-01-01T00:00:00"
+    }
+  ]
+}
