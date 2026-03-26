@@ -2,8 +2,8 @@
   "PushUrls": [
     {
       "Id": "push001",
-      "Url": "https://www.bing.com",
-      "Name": "必应搜索",
+      "Url": "https://blog.csdn.net/qian_yins/article/details/159506660?spm=1001.2014.3001.5502",
+      "Name": "用户手册",
       "Sizes": [800, 600],
       "Position": [-1, -1],
       "Opacity": 0.95,
