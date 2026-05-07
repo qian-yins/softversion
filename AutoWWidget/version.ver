@@ -1,6 +1,6 @@
 {
-  "EncryptedData": "PubF2hdc8kSJ1lCYXep8VuNCPmrQwhZaqph4UPjQUeD2Dar3RrfBjLbVJH6A+u5pndU0+3cr6wSx5dkhOYJJ8UyWovr+YFpKnCPpL36xlNW7+8FxSHDZuMhvci9Nh0GsxbjbujaLF1b2y5bukiIsvgfWuOWevgOB3x1UaPMY729N6/D4EPQDR5Gi0WRceBTpiLFV+RKvJxFPdkgZ89VZrYkMfGWxgR3rpz/1cwH/fZnenbqHKQQQc7sGFyqA6LD0fIKjF4aXZhiYhAerm4ymRw==",
-  "Signature": "UQWSiUxmP+/fHI8qeyouhTLZQwvcfodwTppPKXfPyBKiEAJAzREUffhnbYepuHsRkNZj9wBAqXbHlH4uQZYyWex3ZvXAt3a/b3LZPC2Ooyh36zDo2swfmpFCF01toqEFDzhCAR+AApR7rZAWXK37Z6EvUNOiIOSGj4k0q6XZFZ0hzC0HGMZ4OF0wJJBukr4EGA7VI+e6rz6HjtPhHPj4116VLMPIaOUdd+N1Ap22s6JyRdZzNpZXVlLFDx1ZmDsvXU/Lk731+XdH6ZRE5ZcsGa4QhcniInXVmiojDGL5bYcJ0UzQkumKg/VDbY4U89ApFBwQVH3k3Ya+QnMEZzeFQQ==",
+  "EncryptedData": "PubF2hdc8kSJ1lCYXep8VuNCPmrQwhZaqph4UPjQUeD2Dar3RrfBjLbVJH6A+u5ppDYplwYZ1RXsOj2tt976CYtYSosR6WS5aDvpQFfjbvc+gdYufEQpBJ7DVOEt8+TROsRp9n9rurCHSZXbw2rEgAr3Vo4QE/3c16gcLo1UqJCTaaCgXERy/W/7fwr8oadre+rVYiaV1jF1WvOSKMbF6lp6LttuVC7lDvD2dRNZXR5B+exinjdesj24BXniD+EEUUA+vDi98BgGVLhBDkppjQ==",
+  "Signature": "GlsPVjdgaFXtBdfPjJI7yhocxk1XEzbWtHZqOkDIDoQUrkbiv9bOBG0IoTKKDBwVkU5ZZZ0KyCILH0zrfLjLgX/jJpcM/XUY/p8eNA32nqva1pBmLs0wq3djSReWsXk++XalM6iqunziKEoQ/plqU7BYH0LDqMwxu2KwoIlQZWPpukZoXc0kUgmySZcrHamwq9TaSK9F+XP+TS5223sPe3+q6SKovJNVqezC/ZPDJu+gxSk20yj8AdBwuyjhtBICXRq1zQf2jnO4GqelesWVBHCl6sxbq1KISTyUqwO7Gh654VmiwUUjA1GTH1376yUD5nHtj2R1I7+Y+N53l+oE5g==",
   "DownloadUrls": [
     "https://gitee.com/freeki/softversion/raw/master/AutoWWidget/WebPlexWidget.zip",
     "https://raw.githubusercontent.com/qian-yins/softversion/master/AutoWWidget/WebPlexWidget.zip"
