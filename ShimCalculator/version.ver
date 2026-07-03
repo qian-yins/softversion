@@ -1,0 +1,8 @@
+{
+  "EncryptedData": "0oHMcLCzer/MEOIbcN3ob3anVUb5Zq6It7rQHvPG24mnFrJoonHA0ZnIrxbyZhnqM0pKHq0N6d6wImRYLpiSDy61W0NMCyhWf/7GhMuC3uFu4U1g2gmSn+zooWk6qAdrk9fZWgg7jbqjE24pPgNxLDcr8uaKKOLK7qK7zMFzRX1sVWSVUERjAVUh2Zy4BiJ1t0WWoM2pfQsGpnW4rWIIKjvprTX0+n26aVoq2hv8L/yvxSX1uFvsAXJqimoxi0X3vLWt/raHxWZBs7FO001MjG3ERl4480c8S6JlxjXvvvQ=",
+  "Signature": "MSCo/q4Uq6Wbjqq3AqjTSg9bFrQdaqhTLjPpuOH7Ag8/1bMuADECZQA6zhooG0QejKJHF5RTwNhB3xYhVjlDGili4KYZaCTggHXcI6NJUhEsPO8z5lZHNrYZTA9ApkWq",
+  "DownloadUrls": [
+    "https://gitee.com/freeki/softversion/raw/master/ShimCalculator/ShimCalculator.zip",
+    "https://raw.githubusercontent.com/qian-yins/softversion/master/ShimCalculator/ShimCalculator.zip"
+  ]
+}
