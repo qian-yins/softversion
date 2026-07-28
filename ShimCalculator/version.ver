@@ -1,6 +1,6 @@
 {
-  "EncryptedData": "0oHMcLCzer/MEOIbcN3ob3anVUb5Zq6It7rQHvPG24mnFrJoonHA0ZnIrxbyZhnqszb2SgH3fbiXy54WlfstWxVYVgWlk6cbUTOTo+UmZi5aM8I+3dK7YhgIB27sqNqlBSZTlUyB+fMyNkactBvvNWqxgiCWEbT9GP72zb9/tqCOEsaAYsDD3YgDA0WYn2+gB30/9Tz8y6XRCvhXHrxRP3qaqHvrro9k8YwAw+ypH89X6jKJ98btvODP3J7Gf0UsFqHRLDxVR9/xF8gMdZTCbw7fK6f5Q78IZJnQeqtpxk7Sc0wrvJfMtDwSJ78cNCmj",
-  "Signature": "fQpBCYTXfruQltE/INwtVDfHxjfNERs7+A2C21+3a1wteZN0N6xBw6PbvsDxsNhkjAaWXQMFYCJbRAFs7fiDA8Wsu73eO4C23gmmLHlnoNnrv+I14f0hupyVbG06mMWq",
+  "EncryptedData": "0oHMcLCzer/MEOIbcN3ob3anVUb5Zq6It7rQHvPG24mnFrJoonHA0ZnIrxbyZhnqnqxxAaLp/0KHMJDYFOscdI2+7qE8CXcwowbR1YHRk+QXsa9THXEuoj+KzFRu/UoA/RZ/QaxwFxkZ+KQde34s1v+XckVWE008kEgDgoun40jFtpgd+A5KhGepMxZ6B7KszHqYLn8/AfsV7zf2bR8Msl2P6K6Tq54cqsm5RADMvnAzdUy5rY0gyNjAp32eVgm/4/wSms0s2hvk3RpZryKxpp/VUCoeXRd6XITCQixnac6O0nApFeZmCsTFy1yl98VdoINMPkazpoNuqQdEYNUM8g==",
+  "Signature": "VKkXZayI5cG42yzDuPv7gl2j2zgnWL+76VgXOwQcaK21x76HAo7POGv+TvRmrQ6rHJiq6nQUh3liCPzE8ZHaZTiFI0IrDETNGrWgbETgUQ0V18e2KAmCFmVIJVAGUOnx",
   "DownloadUrls": [
     "https://gitee.com/freeki/softversion/raw/master/ShimCalculator/zzb-ShimCalculator.zip",
     "https://raw.githubusercontent.com/qian-yins/softversion/master/ShimCalculator/zzb-ShimCalculator.zip"
