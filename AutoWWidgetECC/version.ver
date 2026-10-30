@@ -1,0 +1,8 @@
+{
+  "EncryptedData": "PubF2hdc8kSJ1lCYXep8VuNCPmrQwhZaqph4UPjQUeD2Dar3RrfBjLbVJH6A+u5pJCfMVFLPkNqebv/l6RHncBSJjvt3UkMEe279zGG/cWnbDclsYsNbuTncvtqj/DbAQhg3EviXQ+vUQqwfk2VKfCfaPhSRnmsklk2Ry+AQGYR16tLE/N8kALyfjxS0LLr7TTkaLkzssD17j2WY6AYcGtrVEOEgcnsMFJk5s1yYtb5JJz/zG89CYmmb3mKuHVsXFvkeFYxGWKTMxpkS/q36NZbzzt82z+OaN5CWAlky/TIxCvTCHl1lSFpHxjOPRPAorrNBPwuQqc6ppGOLEpvWZyYXshfp7BwCaFDvz/yxsQ/KNrBSZJ8L1VgCTgZLSeR3/lKbeqkNvHxkl7x3AGTbfw==",
+  "Signature": "i6i7hJapQPezSOiqq7x3xsdE64wXZ7ZzmaiJLEYKSdhAhUMviBO7cYy8s39npbAje0tjSQ9CNtX1YCiAni07RVK74io6d0jOB66FTzI+g/rjS0LyWOnacVJlqQnHEnBQ",
+  "DownloadUrls": [
+    "https://gitee.com/freeki/softversion/raw/master/AutoWWidgetECC/WebPlexWidget.zip",
+    "https://raw.githubusercontent.com/qian-yins/softversion/master/AutoWWidgetECC/WebPlexWidget.zip"
+  ]
+}
