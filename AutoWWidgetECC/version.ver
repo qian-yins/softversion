@@ -1,6 +1,6 @@
 {
-  "EncryptedData": "PubF2hdc8kSJ1lCYXep8VuNCPmrQwhZaqph4UPjQUeD2Dar3RrfBjLbVJH6A+u5pJCfMVFLPkNqebv/l6RHncBSJjvt3UkMEe279zGG/cWnbDclsYsNbuTncvtqj/DbAQhg3EviXQ+vUQqwfk2VKfCfaPhSRnmsklk2Ry+AQGYR16tLE/N8kALyfjxS0LLr7TTkaLkzssD17j2WY6AYcGtrVEOEgcnsMFJk5s1yYtb5JJz/zG89CYmmb3mKuHVsXFvkeFYxGWKTMxpkS/q36NZbzzt82z+OaN5CWAlky/TIxCvTCHl1lSFpHxjOPRPAorrNBPwuQqc6ppGOLEpvWZyYXshfp7BwCaFDvz/yxsQ/KNrBSZJ8L1VgCTgZLSeR3/lKbeqkNvHxkl7x3AGTbfw==",
-  "Signature": "i6i7hJapQPezSOiqq7x3xsdE64wXZ7ZzmaiJLEYKSdhAhUMviBO7cYy8s39npbAje0tjSQ9CNtX1YCiAni07RVK74io6d0jOB66FTzI+g/rjS0LyWOnacVJlqQnHEnBQ",
+  "EncryptedData": "PubF2hdc8kSJ1lCYXep8VuNCPmrQwhZaqph4UPjQUeD2Dar3RrfBjLbVJH6A+u5pkhG6wC+8EtE6G9IIoGInUc/1q0VHmuJuJ3U05f02FlAu5yoaYPlj5tM+2Kh8ZdFH5MrynQVg9OgDyDj+jd+f8cNlKYC1e1RwEpbYy9HN794XiNrvtS5RAzvl9V66JrPWaHvQ+BucV9fD8KVdpCBro2vpCWUiv1JeqwPGTKapxZBgJTxoZxNAUJCy3BoLROw4YtzseXPS6EoXcfbZpfYd/RJmZqFqB7cdT0Xuo+XZVevKbmvJIldfoOqWYK93ZdDIaOk+kb6LWYEa3G5mxQN0iu+0WpAngT0MtAW9fse9tV3+Hk74hbKUeb6VTjW5t3H+BpCVABYEWsoY1VorgOCOt+MXkNop2WtMYoPsy0lFJR4=",
+  "Signature": "g9+L57j43dFouBb1He0s/zgmAHFZsUPSAvy9L7N8od+rZZOQsXK0hYsZjE3ZSN3iO04Oj+rSGMaFvZAq/noVfxuDW+Jl/IlJtjN7YVXfJMlroRBB32aXWTikV+1DNi6y",
   "DownloadUrls": [
     "https://gitee.com/freeki/softversion/raw/master/AutoWWidgetECC/WebPlexWidget.zip",
     "https://raw.githubusercontent.com/qian-yins/softversion/master/AutoWWidgetECC/WebPlexWidget.zip"
