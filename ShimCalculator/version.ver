@@ -1,8 +1,8 @@
 {
-  "EncryptedData": "0oHMcLCzer/MEOIbcN3ob3anVUb5Zq6It7rQHvPG24mnFrJoonHA0ZnIrxbyZhnqYZzv7Kl6sF1MG/gujfTiMQHci7p95qrA5njRbAl/hDvMRk1aengnFrG1vO4QA6wMxijsnEFe5eRBZVQIY79IDU98Acz8B5Ai201KdgtRJdP1Klewos6V04FRhTFk9RT20Wy7e2cde6Xgz8KrI/lH7COjLSgtW+UXaNerqr+Hs0z940PrtCkJgbO0G04lVR7WIHuOjOVhtzyLIlQ9h2VCGkmbh43rttc0XsdFX01RoVtMhRI+D3qcFwFMX7hY3xsp",
-  "Signature": "R483UoMEhYvo1dxqhqnvDtoEg6co4wm5V6A77Q0tZFeKs4/PYg6BVfhdgun0s9+3YgHZkrYkjpuCWzPsDaoKmOnFleJl4HJGwP4OB3QNcYKRsX5cDvybI8GAMo83mYyu",
+  "EncryptedData": "0oHMcLCzer/MEOIbcN3ob3anVUb5Zq6It7rQHvPG24mnFrJoonHA0ZnIrxbyZhnqL0JYbHT1Jz9oE7NI9hCebI85/ZVwQHhp3jWHp7YBSLSbmjOBOTymUCGTgZnN2talbenmJmmEI+VMtyfMlUAqeBYPKvk2SSlJGyOdizk4+SwK7abcNt7whsW0eTaZQO0ZJUk88/oWGJRA99I2G31kMYwtYGfHdd//M35NRejwaPsCqpa51InqHt8/2gSUyc1bKr3MN2Ar3yRBaCTBne8Z8VeX5FRqyPfjOwOe4ejeOYrmcMn8ovvjaObku1tz5hAG",
+  "Signature": "GPXg6sBdzxy7GF7euk7Cmn1tEUD2Ga/y++PWYJfPsYv697dTqGuWaEjfGbAwU8vacsYXUUIAVWi/eZjaJMezQj527cz7fYHWdOJA6uZF9F6AHS2n3rG1cbo6p92UeabF",
   "DownloadUrls": [
-    "https://gitee.com/freeki/softversion/raw/master/ShimCalculator/zzb-ShimCalculator.zip",
-    "https://raw.githubusercontent.com/qian-yins/softversion/master/ShimCalculator/zzb-ShimCalculator.zip"
+    "https://gitee.com/freeki/softversion/raw/master/ShimCalculator_Hybrid/zzb-ShimCalculator.zip",
+    "https://raw.githubusercontent.com/qian-yins/softversion/master/ShimCalculator_Hybrid/zzb-ShimCalculator.zip"
   ]
 }
